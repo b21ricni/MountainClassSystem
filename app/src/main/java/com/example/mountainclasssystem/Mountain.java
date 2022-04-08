@@ -11,6 +11,7 @@ public class Mountain {
         this.location = location;
     }
 
+    // Alt insert for getters and setters
     public int getHeight_m() {
         return height_m;
     }
